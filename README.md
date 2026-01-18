@@ -11,7 +11,8 @@ I'm an Aspiring Machine Learning Engineer from Bangladesh
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJnOTk4OTF6c203cHlqempvcXk2ZGRhbXphc2F2MmFvMGl0NGpnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8Vx8K7fv54g9jMWQ5/giphy.gif" />
+
 
 ---
 
