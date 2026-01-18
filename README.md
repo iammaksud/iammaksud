@@ -4,6 +4,7 @@
 Aspiring Machine Learning Engineer with strong foundations in Python, data analysis, and core ML algorithms. Passionate about building data-driven solutions and continuously improving through practice and real-world projects.
 
 ---
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
