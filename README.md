@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! My name is Maksudul Islam, and I'm an Aspiring Machine Learning Engineer from Bangladesh</h2>
+<h2 align="center">Hi 👋! My name is Maksudul Islam </h2>
+
+I'm an Aspiring Machine Learning Engineer from Bangladesh
 
 ---
 
