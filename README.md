@@ -10,6 +10,12 @@ Aspiring Machine Learning Engineer with strong foundations in Python, data analy
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iammaksud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iammaksud&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammaksud&layout=compact&langs_count=5&theme=dracula" height="150"/>
+</div>
+
+
 ---
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJnOTk4OTF6c203cHlqempvcXk2ZGRhbXphc2F2MmFvMGl0NGpnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8Vx8K7fv54g9jMWQ5/giphy.gif" />
