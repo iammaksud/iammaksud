@@ -69,5 +69,3 @@ Aspiring Machine Learning Engineer with strong foundations in Python, data analy
 ---
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/iammaksud/iammaksud/output/snake.svg" alt="Snake animation" />
