@@ -4,7 +4,6 @@
 Aspiring Machine Learning Engineer with strong foundations in Python, data analysis, and core ML algorithms. Passionate about building data-driven solutions and continuously improving through practice and real-world projects.
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/iammaksud](https://github.com/iammaksud)
 
 - 📫 How to reach me **maksudulislam2004@gmail.com**
 
