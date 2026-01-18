@@ -1,6 +1,7 @@
-<h2 align="center">Hi 👋! My name is Maksudul Islam </h2>
+<h1 align="center">Hi 👋, I'm Maksudul Islam</h1>
+<h3 align="center">🚀 Aspiring Machine Learning Engineer | AI Enthusiast</h3>
 
-I'm an Aspiring Machine Learning Engineer from Bangladesh
+Aspiring Machine Learning Engineer with strong foundations in Python, data analysis, and core ML algorithms. Passionate about building data-driven solutions and continuously improving through practice and real-world projects.
 
 ---
 
