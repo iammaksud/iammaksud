@@ -8,11 +8,11 @@ Aspiring Machine Learning Engineer with strong foundations in Python, data analy
 - 📫 How to reach me **maksudulislam2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/iammaksud" target="_blank">
+
+  <a href="https://www.linkedin.com/in/maksudul-islam-ab913b2b5/" target="_blank">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      alt="GitHub - iammaksud"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn - Maksudul Islam"
       height="30"
       width="40" />
   </a>
