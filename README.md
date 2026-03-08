@@ -61,9 +61,6 @@ Aspiring Machine Learning Engineer with strong foundations in Python, data analy
 
 <div align="center">
   <h3>🔗 Connect with me</h3>
-  <a href="https://github.com/iammaksud" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="35" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/maksudul-islam-ab913b2b5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
