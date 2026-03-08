@@ -73,9 +73,7 @@ Aspiring Machine Learning Engineer with strong foundations in Python, data analy
   <a href="https://www.facebook.com/profile.php?id=61579413540317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="35" alt="Facebook" />
   </a>
-  <a href="mailto:maksudulislam2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
+
 </div>
 
 ---
