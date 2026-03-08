@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maksudul Islam</h1>
-<h3 align="center">🚀 Aspiring Machine Learning Engineer | AI Enthusiast</h3>
+<h1 align="center">Hey, I'm Maksudul Islam</h1>
+<h3 align="center">Data Analyst | Aspiring Machine Learning Engineer | AI Enthusiast</h3>
 
 Aspiring Machine Learning Engineer with strong foundations in Python, data analysis, and core ML algorithms. Passionate about building data-driven solutions and continuously improving through practice and real-world projects.
 
