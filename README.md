@@ -5,7 +5,7 @@ Aspiring Machine Learning Engineer with strong foundations in Python, data analy
 
 
 
-<img align="right" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJnOTk4OTF6c203cHlqempvcXk2ZGRhbXphc2F2MmFvMGl0NGpnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8Vx8K7fv54g9jMWQ5/giphy.gif" />
+<img align="right" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJnOTk4OTF6c203cHlqempvcXk2ZGRhbXphc2F2MmFvMGl0NGpnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8Vx8K7fv54g9jMWQ5/giphy.gif" />
 
 
 ---
